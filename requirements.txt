@@ -3,7 +3,7 @@ yfinance
 google-genai 
 tqdm 
 rich 
-torch=2.5.1+cu121
+torch==2.5.1+cu121
 numpy 
 platformdirs 
 ctranslate2 
